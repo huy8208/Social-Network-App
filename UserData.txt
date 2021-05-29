@@ -1,0 +1,149 @@
+First name: Mark
+Last name: Zuckerberg
+Login: NoZucker
+Password: SocialNetwork
+Company: Facebook
+City: Palo Alto
+User ID: 1
+Friends: Sergey Brin, Steve Jobs, Jeff Bezos
+Interests: AI, Business, Programming
+
+First name: Sergey
+Last name: Brin
+Login: Google2
+Password: dontbeevil
+Company: Google
+City: Los Altos
+User ID: 2
+Friends: Mark Zuckerberg, Larry Page, Frank Wang
+Interests: Cars, Reading, Drones
+
+First name: Larry
+Last name: Page
+Login: Google1
+Password: ABC123
+Company: Google
+City: Palo Alto
+User ID: 3
+Friends: Sergey Brin, Travis Kalanick, Marissa Mayer
+Interests: Cars, Music, Hiking
+
+First name: Gabe
+Last name: Newell
+Login: GabeNewell
+Password: GeNe1962
+Company: Valve
+City: Bellevue
+User ID: 4
+Friends: Sundar Pichai, Bill Gates, Marissa Mayer, Jensen Huang, Larry Ellison
+Interests: Gaming, Programming, Food
+
+First name: Travis
+Last name: Kalanick
+Login: TraKa
+Password: LAcalifornia
+Company: Uber
+City: Los Angeles
+User ID: 5
+Friends: Larry Page, Elon Musk, Steven Wozniak
+Interests: Movies, Technology, Music
+
+First name: Sundar
+Last name: Pichai
+Login: SunPi
+Password: SFcalifornia
+Company: Google
+City: San Francisco
+User ID: 6
+Friends: Gabe Newell, Frank Wang
+Interests: Technology, Reading, Dogs
+
+First name: Elon
+Last name: Musk
+Login: TheElonMuskX
+Password: SpaceX2000
+Company: SpaceX
+City: Bel Air 
+User ID: 7
+Friends: Travis Kalanick, Bill Gates, Frank Wang, Jensen Huang
+Interests: Space, Cars, Technology
+
+First name: Steve
+Last name: Jobs
+Login: iSteveJobs55
+Password: iPass9
+Company: Apple
+City: San Francisco
+User ID: 8
+Friends: Mark Zuckerberg, Steven Wozniak, Larry Ellison
+Interests: AI, Technology, Cooking
+
+First name: Bill
+Last name: Gates
+Login: BillG8s
+Password: TheMicrosoftGuy
+Company: Microsoft
+City: Seattle
+User ID: 9
+Friends: Gabe Newell, Elon Musk, Larry Ellison
+Interests: Programming, Tennis, Drones
+
+First name: Steven
+Last name: Wozniak
+Login: StevenW
+Password: notStephen
+Company: Apple
+City: Los Gatos
+User ID: 10
+Friends: Travis Kalanick, Steve Jobs
+Interests: Business, Food, Reading
+
+First name: Frank
+Last name: Wang
+Login: ItsFrankie
+Password: DroneTech90
+Company: DJI Technologies
+City: Shenzhen
+User ID: 11
+Friends: Sergey Brin, Sundar Pichai, Elon Musk
+Interests: Drones, Food, Music
+
+First name: Marissa
+Last name: Mayer
+Login: MarissaM
+Password: Yah00
+Company: Yahoo
+City: San Francisco
+User ID: 12
+Friends: Larry Page, Gabe Newell, Jensen Huang
+Interests: Hiking, Dogs, Movies
+
+First name: Jensen
+Last name: Huang
+Login: jhNvidia
+Password: gtxInfinity
+Company: Nvidia
+City: Portland
+User ID: 13
+Friends: Gabe Newell, Elon Musk, Marissa Mayer
+Interests: Food, AI, Gaming
+
+First name: Jeff
+Last name: Bezos
+Login: myNameIs
+Password: jeff123
+Company: Amazon
+City: Houston
+User ID: 14
+Friends: Mark Zuckerberg, Larry Ellison
+Interests: Space, Movies, Tennis
+
+First name: Larry
+Last name: Ellison
+Login: TheOracle
+Password: ICeverything
+Company: Oracle
+City: Chicago
+User ID: 15
+Friends: Gabe Newell, Steve Jobs, Bill Gates, Jeff Bezos
+Interests: Cooking, Technology, Music
